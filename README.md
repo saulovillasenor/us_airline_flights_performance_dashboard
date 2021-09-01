@@ -1,6 +1,7 @@
 # us_airline_flights_performance_dashboard
 
 # Interactive Dashboard about US Domestic Airline Flights Performance
+This is the final project of the course [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization), which is part of the [Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) offered by IBM in Coursera. The Data Visualization with Python course is the 8th out of 10 courses which complement the professional certificate. This project was created in another repository in order to deploy the application in a server and make it available for anyone. If you wish to view the full repository for the IBM Data Science Professinal Certificate, please follow this [link](https://github.com/saulovillasenor/ibm_data_science_professional_certificate). You will find the reading, code notebooks, notes, projects, quizes and all the material from the certificate.
 
 ## Story
 As a data analyst, you have been given a task to monitor and report US domestic airline flights performance. Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability. Below are the key report items:
