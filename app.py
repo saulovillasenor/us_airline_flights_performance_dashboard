@@ -72,7 +72,6 @@ def compute_data_choice_2(df):
     return avg_car, avg_weather, avg_NAS, avg_sec, avg_late
 
 
-
 # Application layout
 app.layout = (html.Div(children=[ 
                                 # TODO1: Add title to the dashboard
@@ -213,7 +212,6 @@ def get_graph(chart, year, children1, children2, c3, c4, c5):
                    dcc.Graph(figure=nas_fig),
                    dcc.Graph(figure=sec_fig),
                    dcc.Graph(figure=late_fig)]
-
 
 # Run the app
 #if __name__ == '__main__':
