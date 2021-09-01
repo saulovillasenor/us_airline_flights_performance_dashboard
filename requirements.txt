@@ -1,5 +1,5 @@
 plotly==5.1.0
-pandas==1.0.1
+pandas==1.2.1
 dash_html_components==1.1.4
 dash_core_components==1.17.1
 jupyter_dash==0.4.0
